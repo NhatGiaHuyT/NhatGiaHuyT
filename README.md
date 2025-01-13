@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NhatGiaHuyT
-- 👀 I’m interested in AI/ML & Information Security
+- 👀 I’m interested in AI/ML, Data Science & Information Security
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me nhatgiahuyt@gmail.com
