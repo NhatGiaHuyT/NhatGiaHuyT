@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NhatGiaHuyT
 - 👀 I’m interested in AI/ML, Data Science & Information Security
 - 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on any projects
+- 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me nhatgiahuyt@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: The Universe's average colour is called 'Cosmic latte'
