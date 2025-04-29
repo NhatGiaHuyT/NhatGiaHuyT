@@ -1,6 +1,6 @@
 # 🌟 Welcome to My World of Inspiration!  
 
-Hi there! I’m **Huy Tran** (you can call me Akira), a curious mind and passionate creator navigating the exciting intersections and passion of **AI/ML**, **Data Science**, **Cybersecurity**, and **Entrepreneurship**.  
+Hi there! I’m **Huy Tran** (you can call me Akira), a curious mind and passionate creator navigating the exciting intersections and passion of **AI/ML**, **Data Science**, and **Entrepreneurship**.  
 
 ## 🚀 What Drives Me  
 I believe in turning ideas into impact and leveraging technology to solve real-world humanity's pain points. My journey in tech is all about exploration, growth, and sharing my wealth of knowledge and experiences with others.
