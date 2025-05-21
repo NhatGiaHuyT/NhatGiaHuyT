@@ -83,14 +83,14 @@ Computer Science student at **Ton Duc Thang University** specializing in AI & Da
 <div align="center">
 <h3>💬 Let's connect and build something amazing together!</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshara-sharma-a6b4bb272/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AksharaaSharma)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshara.sharma.contact@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nhatgiahuyt/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NhatGiaHuyT)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nhatgiahuyt@gmail.com)
 
 </div>
 
 <div align="center">
-  <a href="https://github.com/AksharaaSharma/AksharaaSharma/blob/main/README.md">
+  <a href="https://github.com/NhatGiaHuyT/NhatGiaHuyT/blob/main/README.md">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" width="100%"/>
   </a>
 </div>
