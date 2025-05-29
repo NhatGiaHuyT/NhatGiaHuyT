@@ -74,7 +74,6 @@ Computer Science student at **Ton Duc Thang University** specializing in AI & Da
 
   <tr>
     <td>
-      <h3 style="margin-top: 0;margin-bottom: 10px; font-size: 1.25rem;font-weight: bold;color:#56a8f0;font-family:cursive; ">Top Languages</h3> 
       <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nhatgiahuyt&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" style="max-width: 100%;"/>
     </td>
   </tr>
