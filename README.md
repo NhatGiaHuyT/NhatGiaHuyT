@@ -74,6 +74,24 @@ Computer Science student at **Ton Duc Thang University** specializing in AI & Da
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AksharaaSharma&layout=compact&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 
+<div>
+  <table style="border: none; width: 100%; margin: 0;">
+  <tr>
+    <td>
+      <h3 style="margin-top: 0;margin-bottom: 10px; font-size: 1.25rem;font-weight: bold;color:#56a8f0;font-family:cursive; ">📋 Top Languages</h3> 
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nhatgiahuyt&layout=compact&langs_count=8&theme=&title_color=5285b3&hide_border=true" alt="📋 Top Languages" style="max-width: 100%;"/>
+    </td>
+    <td>
+      <h3 style="margin-top: 0;margin-bottom: 10px; font-size: 1.25rem;font-weight: bold; color:#56a8f0;font-family:cursive;">🕕 Wakatime Stats</h3> 
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nhatgiahuyt&show_icons=true&theme=&include_all_commits=true&count_private=true&title_color=5285b3&icon_color=5285b3&hide_border=true" alt="🕕 Wakatime Stats" style="max-width: 100%;"/>
+    </td>
+  </tr>
+</table>
+</div>
+
+<br>
+<br>
+
 </div>
 
 
