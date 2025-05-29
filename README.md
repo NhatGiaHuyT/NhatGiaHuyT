@@ -86,6 +86,8 @@ Computer Science student at **Ton Duc Thang University** specializing in AI & Da
 <br>
 <br>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nhatgiahuyt&theme=&bg_color=fff&hide_border=true&line=74acd8&color=74acd8&point=5285b3&area=true&area_color=8abbe7&theme=tokyonight" alt="Activity Graph" style="width: 100%; margin: 0"/>
+
 </div>
 
 
