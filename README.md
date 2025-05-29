@@ -72,14 +72,12 @@ Computer Science student at **Ton Duc Thang University** specializing in AI & Da
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NhatGiaHuyT&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 
-  <table style="border: none; width: 100%; margin: 0;">
   <tr>
     <td>
       <h3 style="margin-top: 0;margin-bottom: 10px; font-size: 1.25rem;font-weight: bold;color:#56a8f0;font-family:cursive; ">Top Languages</h3> 
       <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nhatgiahuyt&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" style="max-width: 100%;"/>
     </td>
   </tr>
-</table>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nhatgiahuyt&theme=tokyonight&bg_color=0D1117&hide_border=true&line=74acd8&color=74acd8&point=5285b3&area=true&area_color=8abbe7" alt="Activity Graph" style="width: 100%; margin: 0"/>
 
