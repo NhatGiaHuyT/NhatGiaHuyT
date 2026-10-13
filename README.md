@@ -11,17 +11,17 @@
 
 </div>
 
-## 🚀 About Me
+## About Me
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 
 Computer Science student at **Ton Duc Thang University** specializing in software engineering and development. Continously improving everyday in software and systems, have a passion for engineering.
 
-- 🎓 B.Tech in Computer Science (2023-2027)
-- 💼 Former Talent at MoMo as a Mini-app Engineer
-- 🏆 Finalist of various hackathons
-- 🌟 Active member of TDTU IT Club
-- 🧠 Passionate about software engineering
+- B.Tech in Computer Science (2023-2027)
+- Former Talent at MoMo as a Mini-app Engineer
+- Finalist of various hackathons
+- Active member of TDTU IT Club
+- Passionate about software engineering
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
