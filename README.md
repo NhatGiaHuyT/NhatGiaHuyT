@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Huy%20Tran&fontSize=70&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20|%20Full%20Stack%20Developer%20|%20Data%20Scientist&descAlignY=55&descAlign=50" width="100%">
 
 <!-- Dynamic Text -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=6C63FF&center=true&vCenter=true&width=1000&height=100&lines=AI+%26+Machine+Learning+Developer;Full+Stack+Engineer;Data+Science+Specialist;Research+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=6C63FF&center=true&vCenter=true&width=1000&height=100&lines=Software+Engineer;Passionate+Professional)](https://git.io/typing-svg)
 
 <!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=AksharaaSharma&style=for-the-badge&color=blueviolet" alt="Profile Views">
@@ -15,31 +15,20 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 
-Computer Science student at **Ton Duc Thang University** specializing in AI & Data Science, with a proven track record in AI development and research. Currently maintaining an impressive GPA of **3.4/10**.
+Computer Science student at **Ton Duc Thang University** specializing in software engineering and development. Continously improving everyday in software and systems, have a passion for engineering.
 
-- 🎓 B.Tech in Computer Science (2023-2026)
-- 💼 Former Intern at
-- 📝 Published researcher at
-- 🏆 Finalist
-- 🌟 Active member of Software Engineering Club and AI Club
-- 🧠 Passionate about Generative AI, Computer Vision and Natural Language Processing
+- 🎓 B.Tech in Computer Science (2023-2027)
+- 💼 Former Talent at MoMo as a Mini-app Engineer
+- 🏆 Finalist of various hackathons
+- 🌟 Active member of TDTU IT Club
+- 🧠 Passionate about software engineering
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## 🛠️ Tech Stack
+## Some technologies i am familiar with, still expanding and finding out new ones but still focusing on strong foundations.
 
 <div align="center">
-
-### 🧠 AI/ML Stack
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFBD59?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -87,7 +76,7 @@ Computer Science student at **Ton Duc Thang University** specializing in AI & Da
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <div align="center">
-<h3>💬 Let's connect and build something amazing together!</h3>
+<h3>Some of my contact info!</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nhatgiahuyt/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NhatGiaHuyT)
